@@ -1,70 +1,55 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+# Costureiros-Conectados 🧵
+<br>
+<h1> Vídeo da Aplicação | Aplication Video: </h1>
+<video src="https://user-images.githubusercontent.com/102983819/189420194-78ab54dc-66a1-47e4-9a83-28340b1c934c.mp4" autoplay> </video>
+<br>
+<h1> PT-BR </h1>
+<h1> Sobre esse projeto 🔍 </h1>
+<p> Link para a aplicação: https://car-store-seven.vercel.app/</p>
+<p> Este projeto consiste em um blog feito com React no front-end e Firebase no back-end. A ideia do nome "Costureiros Conectados" provém do dia a dia dos meu pais, que assim como milhares de brasileiros, tem seu "ganha pão" através da costura. Por várias vezes presenciei eles assistindo vídeos e postagens em redes sociais sobre costura e do mundo da moda. Foi então, que tive a ideia de criar um blog focado em usuários que trabalham ou que se interessam por costura e pela moda, para compartilharem seus projetos e conhecimentos.</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h1>Tecnologias utilizadas 💻 </h1>
+<ul>
+<li> <a href="https://www.javascript.com/">JavaScript </a></li> 
+<li> <a href="https://pt-br.reactjs.org/"> ReactJS </a> </li>
+<li><a href="https://styled-components.com"> Styled-Components </a> </li>
+<li> <a href="https://v5.reactrouter.com/web/guides/quick-start">React-Router </a></li>
+<li> <a href="https://firebase.google.com/"> Firebase </a>
+</ul>
+<h2> Features 🕹 </h2>
+<ul>
+<li> Sistema de cadastramento/a de usuário com autenticação. </li>
+<li> Back-And com Firebase </li>
+</ul> 
+<h1> Status do Projeto 📌 </h1>
+<ul> <li> Em construção </li> </ul>
+  
+<h1>EN-US</h1>
+<br>
+<p>Link to the application: </p>
 
-### `npm test`
+<p> This project consists of a blog made with React on the frontend and Firebase on the backend. The idea of ​​the name "Connected Seamstresses" comes from the daily life of my parents, who, like thousands of Brazilians, have their "breadwinner" through sewing. Several times I witnessed them watching videos and posts on social networks about sewing and the fashion world. It was then that I had the idea of ​​creating a blog focused on users who work or are interested in sewing and fashion, to share their projects and knowledge.
+ </p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h1> Technologies Used 💻 </h1>
+ 
+<ul>
+ <li> <a href="https://www.javascript.com/">JavaScript </a></li> 
+ <li> <a href="https://pt-br.reactjs.org/"> ReactJS </a> </li>
+ <li><a href="https://styled-components.com"> Styled-Components </a> </li>
+ <li> <a href="https://v5.reactrouter.com/web/guides/quick-start">React-Router </a></li>
+ <li> <a href="https://firebase.google.com/"> Firebase </a>
+ </ul>
+ 
+ <h2> Features 🕹 </h2>
+ <li> User registration system with authentication. </li>
+ <li> Back-And com Firebase </li>
+ 
+ <h1> Project status 📌 </h1>
+ <ul> <li> Under construction </li> </ul>
+  

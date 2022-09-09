@@ -9,7 +9,7 @@
 <br>
 <h1> PT-BR </h1>
 <h1> Sobre esse projeto 🔍 </h1>
-<p> Link para a aplicação: https://car-store-seven.vercel.app/</p>
+<p> Link para a aplicação: https://costureiros-conectados.vercel.app/</p>
 <p> Este projeto consiste em um blog feito com React no front-end e Firebase no back-end. A ideia do nome "Costureiros Conectados" provém do dia a dia dos meu pais, que assim como milhares de brasileiros, tem seu "ganha pão" através da costura. Por várias vezes presenciei eles assistindo vídeos e postagens em redes sociais sobre costura e do mundo da moda. Foi então, que tive a ideia de criar um blog focado em usuários que trabalham ou que se interessam por costura e pela moda, para compartilharem seus projetos e conhecimentos.</p>
 
 

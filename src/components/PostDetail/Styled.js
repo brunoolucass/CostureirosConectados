@@ -24,6 +24,7 @@ export const DivTags = styled.div`
     display: flex;
    flex-direction: row;
     margin-bottom: 10px;
+    max-width: 100%;
   
 `
 export const DivImg = styled.div`

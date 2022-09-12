@@ -33,13 +33,12 @@ export const Container = styled.div `
 
 export const Button = styled.button `
 width: 100px;
-height: 40px;
+height: 30px;
 border-radius: 5px;
 border: 1px solid ;
 
 @media (max-width: 600px) {
      width: 60px;
-     
    }
 
 `
@@ -60,6 +59,7 @@ export const ContainerButtons = styled.div `
 export const DivButtons = styled.div `
    margin-top: 10px;
    display: flex;
+
 
    @media (max-width: 425px) {
     

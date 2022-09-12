@@ -11,12 +11,10 @@ export const Nav = styled.nav`
 `
 
 export const Container = styled.div `
-
-    max-width: 90vw;
+    width: 100%;
     height: 100%;
-    margin: 0 auto;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 
     @media (max-width: 1024px) {

@@ -15,15 +15,14 @@ export const Div = styled.div`
 
     @media (max-width: 620px) {
     width: 85vw;
-    height: 600px;
+   
    }
 
 `
 
 export const DivTags = styled.div`
     display: flex;
-    flex-direction: row;
-    justify-content: center;
+   flex-direction: row;
     margin-bottom: 10px;
   
 `

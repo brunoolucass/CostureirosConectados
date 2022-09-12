@@ -4,13 +4,15 @@ import { Div, Button, DivTags, DivImg, P } from "./Styled";
 
 const PostDetail = ({ post }) => {
   return (
-    <Div>
+    <>
+    <Div className="TESTE">
+      
       <h2>{post.title}</h2>
       <DivImg>
       <img src={post.image} alt="image-post" width="100%" height="100%" />
       </DivImg>
 
-      <DivTags>
+      <DivTags className="TAGS">
         {post.tags.map((tag) => (
           <p key={tag}>
             <span>#</span>
@@ -23,6 +25,7 @@ const PostDetail = ({ post }) => {
       <Button> Ler </Button>  
       </Link>
     </Div>
+    </>
   );
 };
 

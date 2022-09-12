@@ -5,7 +5,7 @@ import { Div, Button, DivTags, DivImg, P } from "./Styled";
 const PostDetail = ({ post }) => {
   return (
     <>
-    <Div className="TESTE">
+    <Div>
       
       <h2>{post.title}</h2>
       <DivImg>

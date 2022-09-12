@@ -14,7 +14,7 @@ import Navbar from "../../components/Navbar/Navbar"
 import Footer from "../../components/Footer/Footer"
 
 // Styled Components
-import { Container, Section, Button, EditDiv, ContainerButtons, DivButtons } from "./Styled";
+import { Container, Section, Button, EditDiv, ContainerButtons, DivButtons,TitleModified } from "./Styled";
 
 const Dashboard = () => {
   const { user } = useAuthValue();
@@ -52,10 +52,10 @@ const Dashboard = () => {
       {posts &&
         posts.map((post) => (
           <EditDiv key={post.id}>
-            <div>
+            <TitleModified>
             <h3> Título </h3>
             <p>{post.title}</p>
-            </div>
+            </TitleModified>
 
           {/* Div buttons action, see and edit */}
             <ContainerButtons>

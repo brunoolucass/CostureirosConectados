@@ -46,6 +46,9 @@ export const TitleAction = styled.div `
    display: flex;
    justify-content: space-around;
 `
+export const TitleModified = styled.div `
+   max-width: 60%;
+`
 export const EditDiv = styled.div `
    justify-content: space-evenly;
    display: flex;
